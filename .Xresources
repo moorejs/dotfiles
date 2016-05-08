@@ -1,0 +1,11 @@
+!xterm*faceName: Liberation Mono:size=10:antialias=true
+XTerm*faceName: DejaVu Sans Mono:style=book:size=10:antialias=true
+
+! Text color
+XTerm*background: rgb:00/00/00
+XTerm*foreground: rgb:ff/ff/ff
+
+XTerm*bellIsUrgent: true
+
+XTerm*scaleHeight: 1.03
+XTerm*metaSendsEscape: true

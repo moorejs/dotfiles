@@ -1,0 +1,12 @@
+*
+
+!.gitignore
+!.bash_aliases
+!.bash_profile
+!.bashrc
+!.xinitrc
+!.Xresources
+!.ssh/config
+!.emacs
+!.config/i3/config
+!*/
